@@ -1,0 +1,580 @@
+tf,family,class,source
+ALX3,Paired-related HD factors,Homeo domain factors,JASPAR:1
+ARNT2,PAS domain factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+ASCL1,MyoD/ASC-related factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+ATF2,Jun-related,Basic leucine zipper factors (bZIP),JASPAR:1
+ATF4,ATF-4-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+ATF6,Jun-related,Basic leucine zipper factors (bZIP),JASPAR:1
+ATF7,Jun-related,Basic leucine zipper factors (bZIP),JASPAR:1
+ALX4,Paired-related HD factors,Homeo domain factors,JASPAR:1
+AR,Group A,Basic leucine zipper factors (bZIP),JASPAR:1
+ARID5A,ARID-related,ARID,JASPAR:1
+ARNTL,PAS domain factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+ASCL2,MyoD/ASC-related factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+ATF1,CREB-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+ATF3,Fos-related,Basic leucine zipper factors (bZIP),JASPAR:1
+ATOH1,Tal-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+BACH1,Jun-related,Basic leucine zipper factors (bZIP),JASPAR:1
+BATF,B-ATF-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+BATF3,B-ATF-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+BATF::JUN,B-ATF-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+BCL11A,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+BCL6,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+BHLHA15,Tal-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+BHLHE22,Tal-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+BHLHE23,Tal-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+BHLHE40,Hairy-related factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+BHLHE41,Hairy-related factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+BNC2,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+BACH1::MAFK,Jun-related,Basic leucine zipper factors (bZIP),JASPAR:1
+BCL11B,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+CDX2,HOX,Homeobox,JASPAR:1
+CEBPA,CEBP-related,Basic leucine zipper factors (bZIP),JASPAR:1
+CEBPB,CEBP-related,Basic leucine zipper factors (bZIP),JASPAR:1
+CEBPD,CEBP-related,Basic leucine zipper factors (bZIP),JASPAR:1
+CEBPE,CEBP-related,Basic leucine zipper factors (bZIP),JASPAR:1
+CEBPG,CEBP-related,Basic leucine zipper factors (bZIP),JASPAR:1
+CLOCK,PAS domain factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+CREB1,CREB-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+CREB3,CREB-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+CREB3L1,CREB-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+CREB3L4,CREB-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+CREM,CREB-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+CTCF,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+CTCFL,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+CUX1,HD-CUT,Homeo domain factors,JASPAR:1
+CUX2,HD-CUT,Homeo domain factors,JASPAR:1
+CREB3L2,CREB-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+CREB5,CREB-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+CRX,Paired-related HD factors,Homeo domain factors,JASPAR:1
+DBP,CEBP-related,Basic leucine zipper factors (bZIP),JASPAR:1
+DMRTA2,DMRT factors,DM-type intertwined zinc finger factors,JASPAR:1
+DMRTC2,DMRT factors,DM-type intertwined zinc finger factors,JASPAR:1
+DPRX,Paired-related HD factors,Homeo domain factors,JASPAR:1
+DLX2,NK,Homeo domain factors,JASPAR:1
+DLX3,NK,Homeo domain factors,JASPAR:1
+DLX4,NK,Homeo domain factors,JASPAR:1
+DLX5,NK,Homeo domain factors,JASPAR:1
+DMRT1,DMRT factors,DM-type intertwined zinc finger factors,JASPAR:1
+DUX,Paired-related HD factors,Homeo domain factors,JASPAR:1
+E2F1,E2F,Winged helix,JASPAR:1
+E2F2,E2F,Winged helix,JASPAR:1
+E2F3,E2F,Winged helix,JASPAR:1
+E2F4,E2F,Winged helix,JASPAR:1
+E2F6,E2F,Winged helix,JASPAR:1
+E2F8,E2F,Winged helix,JASPAR:1
+EBF1,Early B-Cell Factor-related factors,Rel homology region (RHR) factors,JASPAR:1
+EBF3,Early B-Cell Factor-related factors,Rel homology region (RHR) factors,JASPAR:1
+EGR1,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+EGR2,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+EGR3,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+EGR4,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+EHF,ETS-related,Winged helix-turn-helix,JASPAR:1
+ELF1,ETS-related,Winged helix-turn-helix,JASPAR:1
+ELF2,ETS-related,Winged helix-turn-helix,JASPAR:1
+ELF3,ETS-related,Winged helix-turn-helix,JASPAR:1
+ELF4,ETS-related,Winged helix-turn-helix,JASPAR:1
+ELK1,ETS-related,Winged helix-turn-helix,JASPAR:1
+ELK1::HOXA1,ETS-related,Winged helix-turn-helix,JASPAR:1
+ELK1::HOXB13,ETS-related,Winged helix-turn-helix,JASPAR:1
+ELK1::SREBF2,ETS-related,Winged helix-turn-helix,JASPAR:1
+ELK3,ETS-related,Winged helix-turn-helix,JASPAR:1
+EOMES,TBrain-related factors,T-Box factors,JASPAR:1
+EPAS1,PAS domain factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+ERF::FIGLA,ERF/DREB,AP2/EREBP,JASPAR:1
+ERF::FOXI1,ERF/DREB,AP2/EREBP,JASPAR:1
+ERF::HOXB13,ERF/DREB,AP2/EREBP,JASPAR:1
+ERF::NHLH1,ERF/DREB,AP2/EREBP,JASPAR:1
+ERF::SREBF2,ERF/DREB,AP2/EREBP,JASPAR:1
+ESR2,Steroid hormone receptors (NR3),Nuclear receptors with C4 zinc fingers,JASPAR:1
+ESRRA,Steroid hormone receptors (NR3),Nuclear receptors with C4 zinc fingers,JASPAR:1
+ESRRB,Steroid hormone receptors (NR3),Nuclear receptors with C4 zinc fingers,JASPAR:1
+ETS2,ETS-related,Winged helix-turn-helix,JASPAR:1
+ETV1,ETS-related,Winged helix-turn-helix,JASPAR:1
+ETV2::FIGLA,ETS-related,Winged helix-turn-helix,JASPAR:1
+ETV2::FOXI1,ETS-related,Winged helix-turn-helix,JASPAR:1
+ETV3,ETS-related,Winged helix-turn-helix,JASPAR:1
+ETV5,ETS-related,Winged helix-turn-helix,JASPAR:1
+ETV5::DRGX,ETS-related,Winged helix-turn-helix,JASPAR:1
+ETV5::FIGLA,ETS-related,Winged helix-turn-helix,JASPAR:1
+ETV5::FOXI1,ETS-related,Winged helix-turn-helix,JASPAR:1
+ETV5::FOXO1,ETS-related,Winged helix-turn-helix,JASPAR:1
+ETV5::HOXA2,ETS-related,Winged helix-turn-helix,JASPAR:1
+EBF2,Early B-Cell Factor-related factors,Rel homology region (RHR) factors,JASPAR:1
+EBF4,EBF-related,Rel homology region (RHR) factors,JASPAR:1
+ELF5,ETS-related,Winged helix-turn-helix,JASPAR:1
+ERG,ETS-related,Winged helix-turn-helix,JASPAR:1
+ESRRG,Steroid hormone receptors (NR3),Nuclear receptors with C4 zinc fingers,JASPAR:1
+FEV,ETS-related,Winged helix-turn-helix,JASPAR:1
+FEZF2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+FLI1,ETS-related,Winged helix-turn-helix,JASPAR:1
+FLI1::DRGX,ETS-related,Winged helix-turn-helix,JASPAR:1
+FLI1::FOXI1,ETS-related,Winged helix-turn-helix,JASPAR:1
+FOS,Fos-related,Basic leucine zipper factors (bZIP),JASPAR:1
+FOS::JUN,B-ATF-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+FOS::JUNB,Fos-related,Basic leucine zipper factors (bZIP),JASPAR:1
+FOSB::JUN,B-ATF-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+FOSB::JUNB,Fos-related,Basic leucine zipper factors (bZIP),JASPAR:1
+FOSL1,Fos-related,Basic leucine zipper factors (bZIP),JASPAR:1
+FOSL1::JUN,B-ATF-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+FOSL1::JUNB,Fos-related,Basic leucine zipper factors (bZIP),JASPAR:1
+FOSL1::JUND,B-ATF-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+FOSL2::JUN,B-ATF-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+FOSL2::JUNB,Fos-related,Basic leucine zipper factors (bZIP),JASPAR:1
+FOSL2::JUND,B-ATF-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+FOXA1,FOX,Fork head/winged helix factors,JASPAR:1
+FOXA2,FOX,Fork head/winged helix factors,JASPAR:1
+FOXA3,FOX,Fork head/winged helix factors,JASPAR:1
+FOXB1,FOX,Fork head/winged helix factors,JASPAR:1
+FOXC2,FOX,Fork head/winged helix factors,JASPAR:1
+FOXD3,FOX,Fork head/winged helix factors,JASPAR:1
+FOXE1,FOX,Fork head/winged helix factors,JASPAR:1
+FOXG1,FOX,Fork head/winged helix factors,JASPAR:1
+FOXI1,ETS-related,Winged helix-turn-helix,JASPAR:1
+FOXJ2::ELF1,ETS-related,Winged helix-turn-helix,JASPAR:1
+FOXK1,FOX,Fork head/winged helix factors,JASPAR:1
+FOXK2,FOX,Fork head/winged helix factors,JASPAR:1
+FOXN3,FOX,Fork head/winged helix factors,JASPAR:1
+FOXO1::ELF1,ETS-related,Winged helix-turn-helix,JASPAR:1
+FOXO1::ELK1,ETS-related,Winged helix-turn-helix,JASPAR:1
+FOXO4,FOX,Fork head/winged helix factors,JASPAR:1
+FOXP1,FOX,Fork head/winged helix factors,JASPAR:1
+FOXP4,FOX,Fork head/winged helix factors,JASPAR:1
+FOXS1,FOX,Fork head/winged helix factors,JASPAR:1
+FOXF1,FOX,Fork head/winged helix factors,JASPAR:1
+FOXL2,FOX,Fork head/winged helix factors,JASPAR:1
+FOXO1,ETS-related,Winged helix-turn-helix,JASPAR:1
+FOXO3,FOX,Fork head/winged helix factors,JASPAR:1
+GABPA,ETS-related,Winged helix-turn-helix,JASPAR:1
+GATA1,C4-GATA-related,Other C4 zinc finger-type factors,JASPAR:1
+GATA1::TAL1,C4-GATA-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+GATA2,C4-GATA-related,Other C4 zinc finger-type factors,JASPAR:1
+GATA4,C4-GATA-related,Other C4 zinc finger-type factors,JASPAR:1
+GATA6,C4-GATA-related,Other C4 zinc finger-type factors,JASPAR:1
+GBX1,HOX,Homeobox,JASPAR:1
+GBX2,HOX,Homeobox,JASPAR:1
+GLI3,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+GLIS1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+GLIS2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+GLIS3,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+GMEB2,GMEB,SAND domain factors,JASPAR:1
+GRHL1,Grainyhead-related factors,Grainyhead domain factors,JASPAR:1
+GRHL2,Grainyhead-related factors,Grainyhead domain factors,JASPAR:1
+GATA3,C4-GATA-related,Other C4 zinc finger-type factors,JASPAR:1
+GLI1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+GLI2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+HAND2,Tal-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+HES1,Hairy-related factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+HES2,Hairy-related factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+HES5,Hairy-related factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+HES6,Hairy-related factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+HES7,Hairy-related factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+HEY1,Hairy-related factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+HEY2,Hairy-related factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+HIF1A,PAS domain factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+HINFP,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+HLF,CEBP-related,Basic leucine zipper factors (bZIP),JASPAR:1
+HMBOX1,POU domain factors,Homeo domain factors,JASPAR:1
+HNF1B,POU domain factors,Homeo domain factors,JASPAR:1
+HNF4A,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,JASPAR:1
+HNF4G,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,JASPAR:1
+HOXA9,HOX,Homeobox,JASPAR:1
+HOXB13,HD-CUT,Homeo domain factors,JASPAR:1
+HOXB2::ELK1,ETS-related,Winged helix-turn-helix,JASPAR:1
+HOXC11,HOX,Homeobox,JASPAR:1
+HOXC12,HOX,Homeobox,JASPAR:1
+HOXC13,HOX,Homeobox,JASPAR:1
+HOXD12,HOX,Homeobox,JASPAR:1
+HSF1,HSF factors,Heat shock factors,JASPAR:1
+HSF2,HSF factors,Heat shock factors,JASPAR:1
+HSF4,HSF factors,Heat shock factors,JASPAR:1
+HAND1,Tal-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+HIC1,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+HMGA1,HMGA,TATA-binding proteins,JASPAR:1
+HMX1,NK,Homeo domain factors,JASPAR:1
+HMX2,NK,Homeo domain factors,JASPAR:1
+HNF1A,POU domain factors,Homeo domain factors,JASPAR:1
+HOXA13,HOX,Homeobox,JASPAR:1
+HOXD13,HOX,Homeobox,JASPAR:1
+IKZF1,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+IKZF2,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+IRF3,Interferon-regulatory factors,Tryptophan cluster factors,JASPAR:1
+IRF4,Interferon-regulatory factors,Tryptophan cluster factors,JASPAR:1
+IRF5,Interferon-regulatory factors,Tryptophan cluster factors,JASPAR:1
+IRF6,Interferon-regulatory factors,Tryptophan cluster factors,JASPAR:1
+IRF7,Interferon-regulatory factors,Tryptophan cluster factors,JASPAR:1
+IRF9,Interferon-regulatory factors,Tryptophan cluster factors,JASPAR:1
+ISL2,HD-LIM,Homeo domain factors,JASPAR:1
+IKZF3,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+IRF1,Interferon-regulatory factors,Tryptophan cluster factors,JASPAR:1
+ISL1,HD-LIM,Homeo domain factors,JASPAR:1
+JDP2,Fos-related,Basic leucine zipper factors (bZIP),JASPAR:1
+JUN::JUNB,B-ATF-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+JUNB,Fos-related,Basic leucine zipper factors (bZIP),JASPAR:1
+JUN,B-ATF-related factors,Basic leucine zipper factors (bZIP),JASPAR:1
+KLF1,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+KLF10,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+KLF11,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+KLF12,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+KLF13,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+KLF14,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+KLF15,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+KLF16,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+KLF17,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+KLF2,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+KLF3,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+KLF4,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+KLF7,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+KLF9,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+LBX2,NK,Homeo domain factors,JASPAR:1
+LHX2,HD-LIM,Homeo domain factors,JASPAR:1
+LHX6,HD-LIM,Homeo domain factors,JASPAR:1
+LEF1,TCF-7-related factors,High-mobility group (HMG) domain factors,JASPAR:1
+LHX1,HD-LIM,Homeo domain factors,JASPAR:1
+MAF,Maf-related,Basic leucine zipper factors (bZIP),JASPAR:1
+MAF::NFE2,Maf-related,Basic leucine zipper factors (bZIP),JASPAR:1
+MAFA,Maf-related,Basic leucine zipper factors (bZIP),JASPAR:1
+MAFF,Maf-related,Basic leucine zipper factors (bZIP),JASPAR:1
+MAFG::NFE2L1,Maf-related,Basic leucine zipper factors (bZIP),JASPAR:1
+MAFK,Maf-related,Basic leucine zipper factors (bZIP),JASPAR:1
+MAX::MYC,bHLH,Helix-loop-helix,JASPAR:1
+MAZ,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+MEIS1,TALE-type homeo domain factors,Homeo domain factors,JASPAR:1
+MEIS2,TALE-type homeo domain factors,Homeo domain factors,JASPAR:1
+MEIS3,TALE-type homeo domain factors,Homeo domain factors,JASPAR:1
+MEOX2,HOX,Homeobox,JASPAR:1
+MGA,TBX6-related factors,T-Box factors,JASPAR:1
+MGA::EVX1,HOX,Homeobox,JASPAR:1
+MITF,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),JASPAR:1
+MIXL1,Paired-related HD factors,Homeo domain factors,JASPAR:1
+MLX,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),JASPAR:1
+MLXIPL,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),JASPAR:1
+MSANTD3,Myb/SANT domain factors,Tryptophan cluster factors,JASPAR:1
+MTF1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+MXI1,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),JASPAR:1
+MYBL1,Myb/SANT domain factors,Tryptophan cluster factors,JASPAR:1
+MYBL2,Myb/SANT domain factors,Tryptophan cluster factors,JASPAR:1
+MYC,bHLH,Helix-loop-helix,JASPAR:1
+MYCN,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),JASPAR:1
+MYF5,MyoD/ASC-related factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+MYOD1,MyoD/ASC-related factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+MYOG,MyoD/ASC-related factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+MZF1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+MAFB,Maf-related,Basic leucine zipper factors (bZIP),JASPAR:1
+MAFG,Maf-related,Basic leucine zipper factors (bZIP),JASPAR:1
+MSGN1,Tal-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+MSX3,NK,Homeo domain factors,JASPAR:1
+NEUROD1,Tal-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+NEUROG2,Tal-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+NFE2,Jun-related,Basic leucine zipper factors (bZIP),JASPAR:1
+NFIB,Nuclear factor 1,SMAD/NF-1 DNA-binding domain factors,JASPAR:1
+NFIC,Nuclear factor 1,SMAD/NF-1 DNA-binding domain factors,JASPAR:1
+NFIC::TLX1,Nuclear factor 1,SMAD/NF-1 DNA-binding domain factors,JASPAR:1
+NFIL3,CEBP-related,Basic leucine zipper factors (bZIP),JASPAR:1
+NFIX,Nuclear factor 1,SMAD/NF-1 DNA-binding domain factors,JASPAR:1
+NFKB1,NF-kappaB-related factors,Rel homology region (RHR) factors,JASPAR:1
+NFKB2,NF-kappaB-related factors,Rel homology region (RHR) factors,JASPAR:1
+NFYA,Heteromeric CCAAT-binding,Heteromeric CCAAT-binding factors,JASPAR:1
+NFYB,Heteromeric CCAAT-binding,Heteromeric CCAAT-binding factors,JASPAR:1
+NFYC,Heteromeric CCAAT-binding,Heteromeric CCAAT-binding factors,JASPAR:1
+NKX2-2,NK,Homeo domain factors,JASPAR:1
+NKX2-5,NK,Homeo domain factors,JASPAR:1
+NKX6-2,NK,Homeo domain factors,JASPAR:1
+NR1D1,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+NR1D2,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+NR1H4::RXRA,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+NR1I2,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+NR2F1,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,JASPAR:1
+NR2F2,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,JASPAR:1
+NR2F6,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,JASPAR:1
+NR3C1,Steroid hormone receptors (NR3),Nuclear receptors with C4 zinc fingers,JASPAR:1
+NR4A1,NGFI-B-related receptors (NR4),Nuclear receptors with C4 zinc fingers,JASPAR:1
+NR4A2::RXRA,NGFI-B-related receptors (NR4),Nuclear receptors with C4 zinc fingers,JASPAR:1
+NR5A1,FTZF1related(NR5A),Nuclear receptors with C4 zinc fingers,JASPAR:1
+NR6A1,GCNF-related receptors (NR6),Nuclear receptors with C4 zinc fingers,JASPAR:1
+NANOG,NK,Homeo domain factors,JASPAR:1
+NEUROD2,Tal-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+NFAT5,NFAT-related factors,Rel homology region (RHR) factors,JASPAR:1
+NFATC1,NFAT-related factors,Rel homology region (RHR) factors,JASPAR:1
+NFATC2,NFAT-related factors,Rel homology region (RHR) factors,JASPAR:1
+NFE2L2,Jun-related,Basic leucine zipper factors (bZIP),JASPAR:1
+NKX2-1,NK,Homeo domain factors,JASPAR:1
+NKX3-2,NK,Homeo domain factors,JASPAR:1
+NPAS4,PAS domain factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+NR1H2,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+NR1H3,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+NR1H3::RXRA,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+NR5A2,FTZF1related(NR5A),Nuclear receptors with C4 zinc fingers,JASPAR:1
+NRF1,Unknown,Unknown,Fallback
+OLIG1,Tal-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+OLIG2,Tal-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+OLIG3,Tal-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+ONECUT1,HD-CUT,Homeo domain factors,JASPAR:1
+ONECUT3,HD-CUT,Homeo domain factors,JASPAR:1
+OSR2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+OTX2,Paired-related HD factors,Homeo domain factors,JASPAR:1
+OVOL1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+OVOL2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+PATZ1,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+PAX2,Paired domain only,Paired box factors,JASPAR:1
+PAX3,Paired plus homeo domain,Paired box factors,JASPAR:1
+PAX5,Paired domain only,Paired box factors,JASPAR:1
+PAX6,Paired plus homeo domain,Paired box factors,JASPAR:1
+PBX2,TALE-type homeo domain factors,Homeo domain factors,JASPAR:1
+PBX3,TALE-type homeo domain factors,Homeo domain factors,JASPAR:1
+PHOX2B,Paired-related HD factors,Homeo domain factors,JASPAR:1
+PKNOX1,TALE-type homeo domain factors,Homeo domain factors,JASPAR:1
+PKNOX2,TALE-type homeo domain factors,Homeo domain factors,JASPAR:1
+PLAG1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+POU2F1,POU domain factors,Homeo domain factors,JASPAR:1
+POU2F3,POU domain factors,Homeo domain factors,JASPAR:1
+POU3F1,POU domain factors,Homeo domain factors,JASPAR:1
+POU3F2,POU domain factors,Homeo domain factors,JASPAR:1
+POU3F3,POU domain factors,Homeo domain factors,JASPAR:1
+POU3F4,POU domain factors,Homeo domain factors,JASPAR:1
+POU4F2,POU domain factors,Homeo domain factors,JASPAR:1
+POU5F1,POU domain factors,Homeo domain factors,JASPAR:1
+POU5F1B,POU domain factors,Homeo domain factors,JASPAR:1
+POU6F2,POU domain factors,Homeo domain factors,JASPAR:1
+PPARA::RXRA,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+PPARD,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+PPARG,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+PRDM1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+PRDM9,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+PROX1,HD-PROS factors,Homeo domain factors,JASPAR:1
+PAX7,Paired plus homeo domain,Paired box factors,JASPAR:1
+PGR,Steroid hormone receptors (NR3),Nuclear receptors with C4 zinc fingers,JASPAR:1
+PLAGL1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+POU5F1::SOX2,GCM,GCM domain factors,JASPAR:1
+PPARA,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+PPARG::RXRA,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+PRDM14,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+PRDM15,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+PRDM4,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+PRDM5,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+PTF1A,Tal-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+RARA::RXRA,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+RARA::RXRG,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,JASPAR:1
+RARB,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+RARG,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+RAX2,Paired-related HD factors,Homeo domain factors,JASPAR:1
+RBPJ,CSL-related factors,Rel homology region (RHR) factors,JASPAR:1
+REL,Storekeeper,Tryptophan cluster factors,JASPAR:1
+RELB,NF-kappaB-related factors,Rel homology region (RHR) factors,JASPAR:1
+REST,ETS-related,Winged helix-turn-helix,JASPAR:1
+RFX1,RFX-related factors,Fork head/winged helix factors,JASPAR:1
+RFX2,RFX-related factors,Fork head/winged helix factors,JASPAR:1
+RFX3,RFX-related factors,Fork head/winged helix factors,JASPAR:1
+RFX4,RFX-related factors,Fork head/winged helix factors,JASPAR:1
+RFX5,RFX-related factors,Fork head/winged helix factors,JASPAR:1
+RORB,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+RORC,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+RREB1,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+RUNX3,Runt-related factors,Runt domain factors,JASPAR:1
+RXRB,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,JASPAR:1
+RXRG,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,JASPAR:1
+RFX6,RFX-related factors,Fork head/winged helix factors,JASPAR:1
+RHOX11,Paired-related HD factors,Homeo domain factors,JASPAR:1
+RUNX1,Runt-related factors,Runt domain factors,JASPAR:1
+RXRA,RXR-related receptors (NR2),Nuclear receptors with C4 zinc fingers,JASPAR:1
+SATB1,HD-CUT,Homeo domain factors,JASPAR:1
+SCRT1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+SCRT2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+SHOX,Paired-related HD factors,Homeo domain factors,JASPAR:1
+SIX1,HD-SINE,Homeo domain factors,JASPAR:1
+SIX2,HD-SINE,Homeo domain factors,JASPAR:1
+SMAD2,SMAD factors,SMAD/NF-1 DNA-binding domain factors,JASPAR:1
+SMAD3,SMAD factors,SMAD/NF-1 DNA-binding domain factors,JASPAR:1
+SMAD5,SMAD factors,SMAD/NF-1 DNA-binding domain factors,JASPAR:1
+SNAI1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+SNAI2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+SNAI3,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+SOHLH2,PAS domain factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+SOX10,SOX-related factors,High-mobility group (HMG) domain factors,JASPAR:1
+SOX13,SOX-related factors,High-mobility group (HMG) domain factors,JASPAR:1
+SOX14,SOX-related factors,High-mobility group (HMG) domain factors,JASPAR:1
+SOX15,SOX-related factors,High-mobility group (HMG) domain factors,JASPAR:1
+SOX2,GCM,GCM domain factors,JASPAR:1
+SOX21,SOX-related factors,High-mobility group (HMG) domain factors,JASPAR:1
+SOX4,SOX-related factors,High-mobility group (HMG) domain factors,JASPAR:1
+SOX9,SOX-related factors,High-mobility group (HMG) domain factors,JASPAR:1
+SP1,Steroid hormone receptors (NR3),Nuclear receptors with C4 zinc fingers,JASPAR:1
+SP2,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+SP3,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+SP4,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+SP8,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+SP9,Three-zinc finger Kruppel-related,C2H2 zinc finger factors,JASPAR:1
+SPDEF,ETS-related,Winged helix-turn-helix,JASPAR:1
+SPIB,ETS-related,Winged helix-turn-helix,JASPAR:1
+SREBF1,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),JASPAR:1
+SRF,ETS-related,Winged helix-turn-helix,JASPAR:1
+SHOX2,Paired-related HD factors,Homeo domain factors,JASPAR:1
+SIX3,HD-SINE,Homeo domain factors,JASPAR:1
+SIX4,HD-SINE,Homeo domain factors,JASPAR:1
+SOX11,SOX-related factors,High-mobility group (HMG) domain factors,JASPAR:1
+SOX17,SOX-related factors,High-mobility group (HMG) domain factors,JASPAR:1
+SOX3,SOX-related factors,High-mobility group (HMG) domain factors,JASPAR:1
+SOX5,SOX-related factors,High-mobility group (HMG) domain factors,JASPAR:1
+SOX7,SOX-related factors,High-mobility group (HMG) domain factors,JASPAR:1
+SPI1,ETS-related,Winged helix-turn-helix,JASPAR:1
+SPZ1,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),JASPAR:1
+STAT2,STAT factors,STAT domain factors,JASPAR:1
+STAT5A,STAT factors,STAT domain factors,JASPAR:1
+STAT5B,STAT factors,STAT domain factors,JASPAR:1
+TBR1,TBrain-related factors,T-Box factors,JASPAR:1
+TBX18,TBX1-related factors,T-Box factors,JASPAR:1
+TBX19,Brachyury-related factors,T-Box factors,JASPAR:1
+TBX2,Paired-related HD factors,Homeo domain factors,JASPAR:1
+TBX20,TBX1-related factors,T-Box factors,JASPAR:1
+TBX21,Paired-related HD factors,Homeo domain factors,JASPAR:1
+TBX4,TBX2-related factors,T-Box factors,JASPAR:1
+TBX5,TBX2-related factors,T-Box factors,JASPAR:1
+TBXT,Brachyury-related factors,T-Box factors,JASPAR:1
+TCF12,E2A,Basic helix-loop-helix factors (bHLH),JASPAR:1
+TCF21,Tal-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+TCF3,FOX,Fork head/winged helix factors,JASPAR:1
+TCF4,E2A,Basic helix-loop-helix factors (bHLH),JASPAR:1
+TCF7,TCF-7-related factors,High-mobility group (HMG) domain factors,JASPAR:1
+TCF7L1,TCF-7-related factors,High-mobility group (HMG) domain factors,JASPAR:1
+TCFL5,PAS domain factors,Basic helix-loop-helix factors (bHLH),JASPAR:1
+TEAD1,TEF-1-related factors,TEA domain factors,JASPAR:1
+TEAD2,TEF-1-related factors,TEA domain factors,JASPAR:1
+TEAD4,TEF-1-related factors,TEA domain factors,JASPAR:1
+TEF,CEBP-related,Basic leucine zipper factors (bZIP),JASPAR:1
+TFAP4,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),JASPAR:1
+TFAP4::ETV1,ETS-related,Winged helix-turn-helix,JASPAR:1
+TFAP4::FLI1,ETS-related,Winged helix-turn-helix,JASPAR:1
+TFCP2,CP2-related factors,Grainyhead domain factors,JASPAR:1
+TFDP1,E2F,Winged helix,JASPAR:1
+TFEB,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),JASPAR:1
+TGIF1,TALE-type homeo domain factors,Homeo domain factors,JASPAR:1
+TGIF2,TALE-type homeo domain factors,Homeo domain factors,JASPAR:1
+TGIF2LX,TALE-type homeo domain factors,Homeo domain factors,JASPAR:1
+TGIF2LY,TALE-type homeo domain factors,Homeo domain factors,JASPAR:1
+THAP1,THAP-related factors,C2CH THAP-type zinc finger factors,JASPAR:1
+THRA,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+THRB,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+TP53,p53-related factors,p53 domain factors,JASPAR:1
+TP73,p53-related factors,p53 domain factors,JASPAR:1
+TRPS1,C4-GATA-related,Other C4 zinc finger-type factors,JASPAR:1
+TWIST1,Tal-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+TBX6,TBX6-related factors,T-Box factors,JASPAR:1
+TFCP2L1,CP2-related factors,Grainyhead domain factors,JASPAR:1
+THAP11,THAP-related factors,C2CH THAP-type zinc finger factors,JASPAR:1
+TWIST2,Tal-related,Basic helix-loop-helix factors (bHLH),JASPAR:1
+UNCX,Paired-related HD factors,Homeo domain factors,JASPAR:1
+USF1,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),JASPAR:1
+USF2,bHLH-ZIP,Basic helix-loop-helix factors (bHLH),JASPAR:1
+VAX1,NK,Homeo domain factors,JASPAR:1
+VEZF1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+VSX1,Paired-related HD factors,Homeo domain factors,JASPAR:1
+VSX2,Paired-related HD factors,Homeo domain factors,JASPAR:1
+VDR,Thyroid hormone receptor-related factors (NR1),Nuclear receptors with C4 zinc fingers,JASPAR:1
+WT1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+XBP1,Unknown,Unknown,Fallback
+YY2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+YY1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZBED1,BED zinc finger factors,C2H2 zinc finger factors,JASPAR:1
+ZBED2,BED zinc finger factors,C2H2 zinc finger factors,JASPAR:1
+ZBED4,BED zinc finger factors,C2H2 zinc finger factors,JASPAR:1
+ZBTB11,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZBTB12,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZBTB14,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZBTB17,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZBTB18,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZBTB24,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZBTB26,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZBTB32,Other factors with up to three adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZBTB33,Other factors with up to three adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZBTB6,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZBTB7A,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZBTB7C,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZEB1,HD-ZF factors,Homeo domain factors,JASPAR:1
+ZFP42,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZFP57,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZIC1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZIC4,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZIC5,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZIM3,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZKSCAN1,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZKSCAN3,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZKSCAN5,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF135,Unknown,Unknown,Fallback
+ZNF136,Unknown,Unknown,Fallback
+ZNF140,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF148,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF157,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF16,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF175,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF184,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF189,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF211,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF213,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF214,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF24,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF257,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF263,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF274,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF281,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF282,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF317,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF320,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF324,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF331,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF341,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF343,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF35,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF354A,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF382,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF384,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF410,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF416,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF417,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF418,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF449,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF454,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF460,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF524,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF528,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF547,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF549,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF558,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF574,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF582,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF610,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF652,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF667,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF669,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF675,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF677,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF680,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF682,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF684,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF692,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF701,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF707,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF708,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF740,Other factors with up to three adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF75D,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF76,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF766,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF768,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF770,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF784,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF8,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF816,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF85,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZNF93,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZSCAN16,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZSCAN21,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZSCAN29,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZSCAN31,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZSCAN4,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZBTB2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZFP335,Factors with multiple dispersed zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZFP809,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZFP961,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZFX,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZIC1::ZIC2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZIC2,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
+ZIC3,More than 3 adjacent zinc fingers,C2H2 zinc finger factors,JASPAR:1
