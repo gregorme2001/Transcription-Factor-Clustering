@@ -1,0 +1,58 @@
+community	gene_set_size	n_TFs	dom_family	dom_family_frac	dom_class	dom_class_frac	family_entropy	class_entropy	n_ora	top_ORA	n_gsea	top_GSEA	ora_family_hits	gsea_family_hits
+0	119	14	Paired-related HD factors	0.429	Homeo domain factors	0.929	0.864	0.371			3.0	Cellular Responses To Stimuli R-HSA-8953897 (NES=-1.64, FDR=4.73e-02) ; Cellular Responses To Stress R-HSA-2262752 (NES=-1.64, FDR=4.73e-02) ; Neuronal System R-HSA-112316 (NES=-1.54, FDR=5.55e-02)	0	0
+1	420	11	Hairy-related factors	0.455	Basic helix-loop-helix factors (bHLH)	0.909	0.895	0.439			3.0	Epigenetic Regulation Of Gene Expression (GO:0040029) (NES=-2.13, FDR=6.56e-02) ; Protein Glycosylation (GO:0006486) (NES=-1.99, FDR=1.40e-01) ; Negative Regulation Of Kinase Activity (GO:0033673) (NES=-1.93, FDR=1.71e-01)	0	0
+2	600	11	HD-SINE	0.273	Basic helix-loop-helix factors (bHLH)	0.364	0.96	0.934	2.0	REAC | Formation of the cornified envelope (FDR=1.07e-02, k=13/89, ovl=0.15) ; REAC | Keratinization (FDR=1.53e-02, k=14/112, ovl=0.12)			0	0
+3	600	48	More than 3 adjacent zinc fingers	0.521	C2H2 zinc finger factors	0.562	0.719	0.673	5.0	REAC | Formation of the cornified envelope (FDR=2.18e-03, k=14/89, ovl=0.16) ; REAC | Keratinization (FDR=3.73e-03, k=15/112, ovl=0.13) ; KEGG | Neuroactive ligand-receptor interaction (FDR=6.37e-03, k=26/306, ovl=0.08)			0	0
+4	600	22	CREB-related factors	0.273	Basic leucine zipper factors (bZIP)	0.773	0.905	0.542	22.0	REAC | Meiotic recombination (FDR=4.86e-03, k=12/73, ovl=0.16) ; REAC | Meiosis (FDR=9.91e-03, k=13/97, ovl=0.13) ; REAC | B-WICH complex positively regulates rRNA expression (FDR=1.33e-02, k=11/77, ovl=0.14)			0	0
+5	194	10	NK	0.4	Homeo domain factors	0.8	0.923	0.722					0	0
+6	161	4	Group A	0.25	Basic leucine zipper factors (bZIP)	0.25	1.0	1.0					0	0
+7	600	12	SOX-related factors	0.833	High-mobility group (HMG) domain factors	0.833	0.515	0.515					0	0
+8	600	24	FOX	0.583	Fork head/winged helix factors	0.583	0.701	0.729			3.0	Cellular Lipid Catabolic Process (GO:0044242) (NES=-2.16, FDR=4.65e-02) ; Positive Regulation Of Phosphatase Activity (GO:0010922) (NES=-2.16, FDR=6.46e-02) ; Positive Regulation Of Protein Dephosphorylation (GO:0035307) (NES=-2.22, FDR=7.28e-02)	0	0
+9	16	2	PAS domain factors	0.5	Basic helix-loop-helix factors (bHLH)	1.0	1.0	0.0	1.0	CORUM | PA700 complex (FDR=2.12e-02, k=1/19, ovl=0.05)			0	0
+10	24	2	CREB-related factors	0.5	Basic leucine zipper factors (bZIP)	1.0	1.0	0.0					0	0
+11	600	20	B-ATF-related factors	0.4	Basic leucine zipper factors (bZIP)	0.9	0.828	0.359					0	0
+12	600	15	TALE-type homeo domain factors	0.4	Homeo domain factors	0.533	0.945	0.919			1.0	Regulation Of Lipid Transport (GO:0032368) (NES=-2.23, FDR=1.38e-01)	0	0
+13	600	29	RXR-related receptors (NR2)	0.379	Nuclear receptors with C4 zinc fingers	0.931	0.776	0.272	9.0	REAC | Meiotic recombination (FDR=4.85e-03, k=12/73, ovl=0.16) ; REAC | Formation of the cornified envelope (FDR=4.85e-03, k=13/89, ovl=0.15) ; REAC | Meiosis (FDR=6.88e-03, k=13/97, ovl=0.13)			0	0
+14	600	23	ETS-related	0.609	Winged helix-turn-helix	0.609	0.693	0.695	2.0	KEGG | Rheumatoid arthritis (FDR=8.69e-04, k=13/80, ovl=0.16) ; GO:BP | humoral immune response (FDR=2.99e-03, k=24/221, ovl=0.11)			0	0
+15	98	8	Tal-related	1.0	Basic helix-loop-helix factors (bHLH)	1.0	0.0	0.0					0	0
+16	600	16	bHLH-ZIP	0.312	Basic helix-loop-helix factors (bHLH)	0.375	0.875	0.857					0	0
+17	418	3	Jun-related	0.667	Basic leucine zipper factors (bZIP)	1.0	0.918	0.0			1.0	Colorectal cancer (NES=-2.10, FDR=2.07e-01)	0	0
+18	600	14	More than 3 adjacent zinc fingers	0.286	C2H2 zinc finger factors	0.429	0.931	0.864			2.0	Positive Regulation Of RNA Metabolic Process (GO:0051254) (NES=-2.70, FDR=0.00e+00) ; Base Conversion Or Substitution Editing (GO:0016553) (NES=1.85, FDR=2.04e-01)	0	0
+19	600	3	TEF-1-related factors	1.0	TEA domain factors	1.0	0.0	0.0					0	0
+20	381	2	More than 3 adjacent zinc fingers	1.0	C2H2 zinc finger factors	1.0	0.0	0.0			3.0	Regulation Of MAP Kinase Activity (GO:0043405) (NES=-2.26, FDR=3.67e-02) ; Oxidative Stress Induced Senescence R-HSA-2559580 (NES=-2.02, FDR=1.35e-01) ; Negative Regulation Of Immune Response (GO:0050777) (NES=-1.87, FDR=1.51e-01)	0	0
+21	6	4	CEBP-related	0.5	Basic leucine zipper factors (bZIP)	0.5	0.946	0.946					0	0
+22	63	4	p53-related factors	0.5	Basic helix-loop-helix factors (bHLH)	0.5	0.946	1.0			1.0	Hemostasis R-HSA-109582 (NES=-1.60, FDR=4.28e-02)	0	0
+23	600	25	More than 3 adjacent zinc fingers	0.64	C2H2 zinc finger factors	0.76	0.646	0.795	1.0	GO:BP | regulation of hair follicle development (FDR=1.46e-02, k=7/20, ovl=0.35)			0	0
+24	600	24	Three-zinc finger Kruppel-related	0.375	C2H2 zinc finger factors	0.792	0.818	0.512	1.0	KEGG | DNA replication (FDR=4.02e-03, k=8/34, ovl=0.24)			0	0
+25	536	7	HD-CUT	0.571	Homeo domain factors	0.571	0.87	0.87					0	0
+26	6	2	CREB-related factors	0.5	Basic leucine zipper factors (bZIP)	0.5	1.0	1.0					0	0
+27	600	32	CEBP-related	0.219	Homeo domain factors	0.344	0.882	0.795			3.0	Thrombin Signaling Thru Proteinase Activated Receptors (PARs) R-HSA-456926 (NES=-2.18, FDR=1.10e-01) ; Negative Regulation Of MAPK Pathway R-HSA-5675221 (NES=-2.08, FDR=1.56e-01) ; Regulation Of DNA Recombination (GO:0000018) (NES=1.87, FDR=2.22e-01)	0	0
+28	4	2	Paired-related HD factors	0.5	Homeo domain factors	0.5	1.0	1.0					0	0
+29	213	5	SOX-related factors	0.4	High-mobility group (HMG) domain factors	0.4	0.96	0.96	2.0	REAC | FRS-mediated FGFR2 signaling (FDR=3.14e-02, k=4/17, ovl=0.24) ; REAC | Downstream signaling of activated FGFR2 (FDR=3.79e-02, k=4/21, ovl=0.19)			0	0
+30	277	4	E2F	1.0	Winged helix	1.0	0.0	0.0			3.0	Transmission Across Chemical Synapses R-HSA-112315 (NES=1.89, FDR=4.31e-03) ; Neurotransmitter Receptors And Postsynaptic Signal Transmission R-HSA-112314 (NES=1.89, FDR=4.31e-03) ; Neuronal System R-HSA-112316 (NES=1.87, FDR=5.46e-03)	0	0
+31	600	12	Three-zinc finger Kruppel-related	0.917	C2H2 zinc finger factors	1.0	0.414	0.0			3.0	PECAM1 Interactions R-HSA-210990 (NES=-2.41, FDR=8.80e-03) ; Dendritic Cell Differentiation (GO:0097028) (NES=-2.20, FDR=5.22e-02) ; Na+/Cl- Dependent Neurotransmitter Transporters R-HSA-442660 (NES=-2.05, FDR=1.59e-01)	0	0
+32	600	18	ETS-related	0.833	Winged helix-turn-helix	0.833	0.65	0.65	72.0	REAC | Metabolism of RNA (FDR=3.57e-12, k=65/652, ovl=0.10) ; GO:BP | RNA processing (FDR=5.47e-07, k=68/897, ovl=0.08) ; KEGG | Herpes simplex virus 1 infection (FDR=7.92e-07, k=41/437, ovl=0.09)			0	0
+33	74	2	ETS-related	1.0	Winged helix-turn-helix	1.0	0.0	0.0					0	0
+34	275	8	More than 3 adjacent zinc fingers	0.75	C2H2 zinc finger factors	0.875	0.67	0.544	1.0	KEGG | Cardiac muscle contraction (FDR=5.55e-03, k=8/74, ovl=0.11)			0	0
+35	600	10	More than 3 adjacent zinc fingers	0.6	C2H2 zinc finger factors	0.7	0.785	0.73					0	0
+36	472	6	C4-GATA-related	1.0	Other C4 zinc finger-type factors	0.833	0.0	0.65			2.0	T cell receptor signaling pathway (NES=-2.31, FDR=6.51e-03) ; Protein Import Into Nucleus (GO:0006606) (NES=-1.97, FDR=1.33e-01)	0	0
+37	600	3	CP2-related factors	0.667	Grainyhead domain factors	1.0	0.918	0.0			3.0	Apelin signaling pathway (NES=-2.34, FDR=1.58e-02) ; Growth hormone synthesis, secretion and action (NES=-2.09, FDR=1.38e-01) ; Chagas disease (NES=-2.13, FDR=1.39e-01)	0	0
+38	150	2	Factors with multiple dispersed zinc fingers	0.5	C2H2 zinc finger factors	1.0	1.0	0.0			1.0	Vesicle-mediated Transport R-HSA-5653656 (NES=-1.56, FDR=2.23e-01)	0	0
+39	600	14	HOX	0.286	C2H2 zinc finger factors	0.357	0.898	0.913	1.0	REAC | Degradation of the extracellular matrix (FDR=9.63e-04, k=17/123, ovl=0.14)			0	0
+40	600	22	More than 3 adjacent zinc fingers	0.182	C2H2 zinc finger factors	0.273	0.939	0.9			1.0	Positive Regulation Of Mononuclear Cell Migration (GO:0071677) (NES=1.87, FDR=2.43e-01)	0	0
+41	167	2	Factors with multiple dispersed zinc fingers	0.5	C2H2 zinc finger factors	0.5	1.0	1.0					0	0
+42	7	2	Interferon-regulatory factors	1.0	Tryptophan cluster factors	1.0	0.0	0.0					0	0
+43	301	3	HD-LIM	0.333	Homeo domain factors	0.667	1.0	0.918					0	0
+44	2	2	HD-LIM	0.5	Homeo domain factors	1.0	1.0	0.0					0	0
+45	388	2	More than 3 adjacent zinc fingers	1.0	C2H2 zinc finger factors	1.0	0.0	0.0					0	0
+46	77	3	TALE-type homeo domain factors	1.0	Homeo domain factors	1.0	0.0	0.0					0	0
+47	483	7	TBX2-related factors	0.286	T-Box factors	0.571	0.976	0.832			3.0	Viral carcinogenesis (NES=-2.14, FDR=7.85e-02) ; Rap1 signaling pathway (NES=-2.08, FDR=8.11e-02) ; Positive Regulation Of Cellular Catabolic Process (GO:0031331) (NES=-2.18, FDR=9.77e-02)	0	0
+48	143	2	Tal-related	0.5	Basic helix-loop-helix factors (bHLH)	0.5	1.0	1.0			1.0	Positive Regulation Of Intracellular Signal Transduction (GO:1902533) (NES=-1.99, FDR=5.62e-02)	0	0
+49	4	3	Nuclear factor 1	1.0	SMAD/NF-1 DNA-binding domain factors	1.0	0.0	0.0					0	0
+50	150	2	Thyroid hormone receptor-related factors (NR1)	0.5	Nuclear receptors with C4 zinc fingers	0.5	1.0	1.0					0	0
+51	150	2	NGFI-B-related receptors (NR4)	0.5	Nuclear receptors with C4 zinc fingers	1.0	1.0	0.0					0	0
+52	600	8	Thyroid hormone receptor-related factors (NR1)	0.625	Nuclear receptors with C4 zinc fingers	0.625	0.774	0.819					0	0
+53	169	2	Tal-related	1.0	Basic helix-loop-helix factors (bHLH)	1.0	0.0	0.0					0	0
+54	150	2	Paired domain only	0.5	Paired box factors	1.0	1.0	0.0					0	0
+55	3	2	POU domain factors	0.5	Homeo domain factors	0.5	1.0	1.0					0	0
+56	600	2	ETS-related	1.0	Winged helix-turn-helix	1.0	0.0	0.0	2.0	KEGG | Phagosome (FDR=4.74e-03, k=16/136, ovl=0.12) ; GO:BP | immune effector process (FDR=1.25e-02, k=41/597, ovl=0.07)			0	0
