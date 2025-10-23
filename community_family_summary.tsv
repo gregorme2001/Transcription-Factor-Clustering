@@ -1,0 +1,58 @@
+community	n_TFs	dom_family	dom_family_frac	dom_class	dom_class_frac	family_entropy	class_entropy	example_TFs
+0	14	Paired-related HD factors	0.429	Homeo domain factors	0.929	0.864	0.371	ALX3, SHOX, UNCX
+1	11	Hairy-related factors	0.455	Basic helix-loop-helix factors (bHLH)	0.909	0.895	0.439	HES2, HEY2, HES1
+2	11	HD-SINE	0.273	Basic helix-loop-helix factors (bHLH)	0.364	0.96	0.934	SIX1, SIX2, Six4
+3	48	More than 3 adjacent zinc fingers	0.521	C2H2 zinc finger factors	0.562	0.719	0.673	CTCF, Zic3, ZNF317
+4	22	CREB-related factors	0.273	Basic leucine zipper factors (bZIP)	0.773	0.905	0.542	CREB1, CREM, CREB3L1
+5	10	NK	0.4	Homeo domain factors	0.8	0.923	0.722	Dlx2, VAX1, Dlx5
+6	4	Group A	0.25	Basic leucine zipper factors (bZIP)	0.25	1.0	1.0	Ar
+7	12	SOX-related factors	0.833	High-mobility group (HMG) domain factors	0.833	0.515	0.515	SOX13, Sox7, Sox17
+8	24	FOX	0.583	Fork head/winged helix factors	0.583	0.701	0.729	FOXB1, FOXA1, FOXD3
+9	2	PAS domain factors	0.5	Basic helix-loop-helix factors (bHLH)	1.0	1.0	0.0	Arntl
+10	2	CREB-related factors	0.5	Basic leucine zipper factors (bZIP)	1.0	1.0	0.0	Atf1
+11	20	B-ATF-related factors	0.4	Basic leucine zipper factors (bZIP)	0.9	0.828	0.359	FOSL1::JUN, BATF::JUN, BATF
+12	15	TALE-type homeo domain factors	0.4	Homeo domain factors	0.533	0.945	0.919	TGIF2LY, PBX3, PKNOX1
+13	29	RXR-related receptors (NR2)	0.379	Nuclear receptors with C4 zinc fingers	0.931	0.776	0.272	NR2F6, RARA::RXRG, HNF4A
+14	23	ETS-related	0.609	Winged helix-turn-helix	0.609	0.693	0.695	EHF, GABPA, Erg
+15	8	Tal-related	1.0	Basic helix-loop-helix factors (bHLH)	1.0	0.0	0.0	BHLHA15, OLIG2, OLIG3
+16	16	bHLH-ZIP	0.312	Basic helix-loop-helix factors (bHLH)	0.375	0.875	0.857	MYCN, SREBF1, MITF
+17	3	Jun-related	0.667	Basic leucine zipper factors (bZIP)	1.0	0.918	0.0	Bach1::Mafk, Nfe2l2
+18	14	More than 3 adjacent zinc fingers	0.286	C2H2 zinc finger factors	0.429	0.931	0.864	Gli1, ZSCAN4, GLI3
+19	3	TEF-1-related factors	1.0	TEA domain factors	1.0	0.0	0.0	TEAD1, TEAD4, TEAD2
+20	2	More than 3 adjacent zinc fingers	1.0	C2H2 zinc finger factors	1.0	0.0	0.0	ZNF282, ZNF75D
+21	4	CEBP-related	0.5	Basic leucine zipper factors (bZIP)	0.5	0.946	0.946	CEBPB, CEBPE
+22	4	p53-related factors	0.5	Basic helix-loop-helix factors (bHLH)	0.5	0.946	1.0	TP53, TP73
+23	25	More than 3 adjacent zinc fingers	0.64	C2H2 zinc finger factors	0.76	0.646	0.795	ZNF263, CTCFL, Plagl1
+24	24	Three-zinc finger Kruppel-related	0.375	C2H2 zinc finger factors	0.792	0.818	0.512	KLF10, KLF14, SP2
+25	7	HD-CUT	0.571	Homeo domain factors	0.571	0.87	0.87	CUX1, ONECUT3, ONECUT1
+26	2	CREB-related factors	0.5	Basic leucine zipper factors (bZIP)	0.5	1.0	1.0	Creb5
+27	32	CEBP-related	0.219	Homeo domain factors	0.344	0.882	0.795	TEF, CEBPA, CEBPG
+28	2	Paired-related HD factors	0.5	Homeo domain factors	0.5	1.0	1.0	DPRX
+29	5	SOX-related factors	0.4	High-mobility group (HMG) domain factors	0.4	0.96	0.96	SOX4, SOX15
+30	4	E2F	1.0	Winged helix	1.0	0.0	0.0	E2F1, E2F4, E2F3
+31	12	Three-zinc finger Kruppel-related	0.917	C2H2 zinc finger factors	1.0	0.414	0.0	EGR1, SP9, SP8
+32	18	ETS-related	0.833	Winged helix-turn-helix	0.833	0.65	0.65	ELF2, ELK1, HOXB2::ELK1
+33	2	ETS-related	1.0	Winged helix-turn-helix	1.0	0.0	0.0	ELF4, SPDEF
+34	8	More than 3 adjacent zinc fingers	0.75	C2H2 zinc finger factors	0.875	0.67	0.544	GLIS1, ZIC4, ZIC1
+35	10	More than 3 adjacent zinc fingers	0.6	C2H2 zinc finger factors	0.7	0.785	0.73	FEZF2, ZNF460, ZNF213
+36	6	C4-GATA-related	1.0	Other C4 zinc finger-type factors	0.833	0.0	0.65	GATA1, Gata3, GATA4
+37	3	CP2-related factors	0.667	Grainyhead domain factors	1.0	0.918	0.0	TFCP2, Tfcp2l1
+38	2	Factors with multiple dispersed zinc fingers	0.5	C2H2 zinc finger factors	1.0	1.0	0.0	HINFP
+39	14	HOX	0.286	C2H2 zinc finger factors	0.357	0.898	0.913	HOXC11, HOXC12, HOXC13
+40	22	More than 3 adjacent zinc fingers	0.182	C2H2 zinc finger factors	0.273	0.939	0.9	ZBTB26, ZBTB12, ZNF766
+41	2	Factors with multiple dispersed zinc fingers	0.5	C2H2 zinc finger factors	0.5	1.0	1.0	Hic1
+42	2	Interferon-regulatory factors	1.0	Tryptophan cluster factors	1.0	0.0	0.0	IRF6, IRF9
+43	3	HD-LIM	0.333	Homeo domain factors	0.667	1.0	0.918	Isl1
+44	2	HD-LIM	0.5	Homeo domain factors	1.0	1.0	0.0	LHX6
+45	2	More than 3 adjacent zinc fingers	1.0	C2H2 zinc finger factors	1.0	0.0	0.0	ZNF558, ZNF677
+46	3	TALE-type homeo domain factors	1.0	Homeo domain factors	1.0	0.0	0.0	MEIS1, PBX2, MEIS2
+47	7	TBX2-related factors	0.286	T-Box factors	0.571	0.976	0.832	TBX5, TBX4
+48	2	Tal-related	0.5	Basic helix-loop-helix factors (bHLH)	0.5	1.0	1.0	Msgn1
+49	3	Nuclear factor 1	1.0	SMAD/NF-1 DNA-binding domain factors	1.0	0.0	0.0	NFIC, NFIC::TLX1, NFIX
+50	2	Thyroid hormone receptor-related factors (NR1)	0.5	Nuclear receptors with C4 zinc fingers	0.5	1.0	1.0	NR1I2
+51	2	NGFI-B-related receptors (NR4)	0.5	Nuclear receptors with C4 zinc fingers	1.0	1.0	0.0	NR4A1
+52	8	Thyroid hormone receptor-related factors (NR1)	0.625	Nuclear receptors with C4 zinc fingers	0.625	0.774	0.819	Nr1H2, Nr1h3, Nr1h3::Rxra
+53	2	Tal-related	1.0	Basic helix-loop-helix factors (bHLH)	1.0	0.0	0.0	Olig2, Twist2
+54	2	Paired domain only	0.5	Paired box factors	1.0	1.0	0.0	PAX2
+55	2	POU domain factors	0.5	Homeo domain factors	0.5	1.0	1.0	POU3F2
+56	2	ETS-related	1.0	Winged helix-turn-helix	1.0	0.0	0.0	SPIB, Spi1
